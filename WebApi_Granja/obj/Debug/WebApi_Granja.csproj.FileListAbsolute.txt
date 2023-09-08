@@ -1,0 +1,402 @@
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.AssemblyReference.cache
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CoreCompileInputs.cache
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.dll.config
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.pdb
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\csc.exe
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\csc.exe.config
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\csc.rsp
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\csi.exe
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\csi.exe.config
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\csi.rsp
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.AppContext.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Console.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Net.Http.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.exe
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.exe.config
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.rsp
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\Newtonsoft.Json.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Net.Http.Formatting.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Web.Cors.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Web.Http.Cors.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Web.Http.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Web.Http.WebHost.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Web.Http.Cors.xml
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\Newtonsoft.Json.xml
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Net.Http.Formatting.xml
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Web.Http.xml
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\System.Web.Http.WebHost.xml
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\es\System.Web.Http.resources.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CopyComplete
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.dll
+C:\Users\Jose Aldana\Desktop\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.pdb
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.dll.config
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.pdb
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csc.exe
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csc.exe.config
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csc.rsp
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csi.exe
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csi.exe.config
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csi.rsp
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.AppContext.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Console.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Net.Http.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.exe
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.exe.config
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.rsp
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Newtonsoft.Json.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Net.Http.Formatting.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Cors.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.Cors.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.WebHost.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.Cors.xml
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Newtonsoft.Json.xml
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Net.Http.Formatting.xml
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.xml
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.WebHost.xml
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\es\System.Web.Http.resources.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.AssemblyReference.cache
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CopyComplete
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.dll
+C:\Users\Bryan Bardales\Desktop\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.pdb
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.dll.config
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\WebApi_Granja.pdb
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csc.exe
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csc.exe.config
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csc.rsp
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csi.exe
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csi.exe.config
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\csi.rsp
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.AppContext.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Console.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.Compression.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Net.Http.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.ValueTuple.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.exe
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.exe.config
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\vbc.rsp
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\VBCSCompiler.exe
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Newtonsoft.Json.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Net.Http.Formatting.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Cors.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.Cors.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.WebHost.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.Cors.xml
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Newtonsoft.Json.xml
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Net.Http.Formatting.xml
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.xml
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\System.Web.Http.WebHost.xml
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\es\System.Web.Http.resources.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.AssemblyReference.cache
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CoreCompileInputs.cache
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CopyComplete
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.dll
+C:\Users\tebal\OneDrive\Escritorio\4TO SEMESTRE\BACKEND C#\BACKEND C#\WebApi_Granja\obj\Debug\WebApi_Granja.pdb
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\WebApi_Granja.dll.config
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\WebApi_Granja.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\WebApi_Granja.pdb
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\csc.exe
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\csc.exe.config
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\csc.rsp
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\csi.exe
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\csi.exe.config
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\csi.rsp
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\vbc.exe
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\vbc.exe.config
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\vbc.rsp
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\VBCSCompiler.exe
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\Newtonsoft.Json.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Net.Http.Formatting.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Web.Cors.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Web.Http.Cors.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Web.Http.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Web.Http.WebHost.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Web.Http.Cors.xml
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\Newtonsoft.Json.xml
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Net.Http.Formatting.xml
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Web.Http.xml
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\System.Web.Http.WebHost.xml
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\es\System.Web.Http.resources.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.AssemblyReference.cache
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CoreCompileInputs.cache
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CopyComplete
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\obj\Debug\WebApi_Granja.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\obj\Debug\WebApi_Granja.pdb
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\WebApi_Granja.dll.config
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\WebApi_Granja.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\WebApi_Granja.pdb
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\csc.exe
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\csc.exe.config
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\csc.rsp
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\csi.exe
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\csi.exe.config
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\csi.rsp
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.AppContext.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Console.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.IO.Compression.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Net.Http.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Net.Sockets.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.ValueTuple.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\vbc.exe
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\vbc.exe.config
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\vbc.rsp
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\VBCSCompiler.exe
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\Newtonsoft.Json.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Net.Http.Formatting.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Web.Cors.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Web.Http.Cors.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Web.Http.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Web.Http.WebHost.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Web.Http.Cors.xml
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\Newtonsoft.Json.xml
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Net.Http.Formatting.xml
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Web.Http.xml
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\System.Web.Http.WebHost.xml
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\es\System.Web.Http.resources.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.AssemblyReference.cache
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CoreCompileInputs.cache
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CopyComplete
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\obj\Debug\WebApi_Granja.dll
+C:\Users\geova\OneDrive\Escritorio\Geova\WebApi_Granja\obj\Debug\WebApi_Granja.pdb
+C:\Users\aldan\Desktop\WebApi_Granja\bin\WebApi_Granja.dll.config
+C:\Users\aldan\Desktop\WebApi_Granja\bin\WebApi_Granja.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\WebApi_Granja.pdb
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\csc.exe
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\csc.exe.config
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\csc.rsp
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\csi.exe
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\csi.exe.config
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\csi.rsp
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\vbc.exe
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\vbc.exe.config
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\vbc.rsp
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\VBCSCompiler.exe
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aldan\Desktop\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\Newtonsoft.Json.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Net.Http.Formatting.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Web.Cors.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Web.Http.Cors.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Web.Http.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Web.Http.WebHost.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Net.Http.Formatting.xml
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Web.Http.xml
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Web.Http.Cors.xml
+C:\Users\aldan\Desktop\WebApi_Granja\bin\Newtonsoft.Json.xml
+C:\Users\aldan\Desktop\WebApi_Granja\bin\System.Web.Http.WebHost.xml
+C:\Users\aldan\Desktop\WebApi_Granja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aldan\Desktop\WebApi_Granja\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\es\System.Web.Http.resources.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\aldan\Desktop\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.AssemblyReference.cache
+C:\Users\aldan\Desktop\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CoreCompileInputs.cache
+C:\Users\aldan\Desktop\WebApi_Granja\obj\Debug\WebApi_Granja.csproj.CopyComplete
+C:\Users\aldan\Desktop\WebApi_Granja\obj\Debug\WebApi_Granja.dll
+C:\Users\aldan\Desktop\WebApi_Granja\obj\Debug\WebApi_Granja.pdb
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Buffers.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Memory.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\aldan\Desktop\WebApi_Granja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Buffers.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Memory.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\geova\OneDrive\Escritorio\WebApi_Granja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
