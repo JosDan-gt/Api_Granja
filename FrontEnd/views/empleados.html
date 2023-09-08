@@ -118,7 +118,7 @@
                     <h1 class="h2">Empleados</h1>
                     <div class="btn-toolbar mb-2 mb-md-0">
                         <div class="btn-group me-2">
-                            <button type="button" data-bs-toggle="modal" data-bs-target="#verEmpleado" class="btn btn-sm btn-outline-secondary">Agregar Empleado</button>
+                            <button type="button" data-bs-toggle="modal" data-bs-target="#agregarEmpleado" class="btn btn-sm btn-outline-secondary">Agregar Empleado</button>
                         </div>
                     </div>
                 </div>
@@ -272,27 +272,29 @@
                             <div class="modal-body">
                                 <form>
                                     <div class="mb-3">
-                                        <label for="nombreEmpleado" class="form-label">Nombre</label>
-                                        <input id="nombreEmpleado" type="text" class="form-control">
+                                        <label for="nombreEmpleadoAdd" class="form-label">Nombre</label>
+                                        <input id="nombreEmpleadoAdd" type="text" class="form-control">
 
-                                        <label for="apellidoEmpleado" class="form-label">Apellido</label>
-                                        <input id="apellidoEmpleado" type="text" class="form-control">
+                                        <label for="apellidoEmpleadoAdd" class="form-label">Apellido</label>
+                                        <input id="apellidoEmpleadoAdd" type="text" class="form-control">
 
-                                        <label for="direccionEmpleado" class="form-label">Direccion</label>
-                                        <input id="direccionEmpleado" type="text" class="form-control">
+                                        <label for="direccionEmpleadoAdd" class="form-label">Direccion</label>
+                                        <input id="direccionEmpleadoAdd" type="text" class="form-control">
 
-                                        <label for="puestoEmpleado" class="form-label">Puesto</label>
-                                        <input id="puestoEmpleado" type="text" class="form-control">
+                                        <label for="puestoEmpleadoAdd" class="form-label">Puesto</label>
+                                        <input id="puestoEmpleadoAdd" type="text" class="form-control">
 
-                                        <label for="edadEmpleado" class="form-label">Edad</label>
-                                        <input id="edadEmpleado" type="number" class="form-control">
+                                        <label for="edadEmpleadoAdd" class="form-label">Edad</label>
+                                        <input id="edadEmpleadoAdd" type="number" class="form-control">
 
-                                        <label for="telefonoEmpleado" class="form-label">Telefono</label>
-                                        <input id="telefonoEmpleado" type="number" class="form-control">
+                                        <label for="telefonoEmpleadoAdd" class="form-label">Telefono</label>
+                                        <input id="telefonoEmpleadoAdd" type="number" class="form-control">
 
-                                        <label for="salarioEmpleado" class="form-label">Salario</label>
-                                        <input id="salarioEmpleado" type="number" class="form-control">
+                                        <label for="salarioEmpleadoAdd" class="form-label">Salario</label>
+                                        <input id="salarioEmpleadoAdd" type="number" class="form-control">
                                     </div>
+                                    <button onclick="agregarEmpleado()" data-bs-dismiss="modal" type="button"
+                                        class="btn btn-primary">Guardar</button>
                                 </form>
                             </div>
                             <div class="modal-footer">

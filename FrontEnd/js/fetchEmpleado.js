@@ -212,7 +212,7 @@ function eliminarEmpleado() {
     const idEmpleado = botonEliminar.getAttribute('data-idempleado');
 
     var newUrl = url + '/' + idEmpleado
-    console.log(newUrl)
+    console.log(empleado)
 
     empleadoElimina = {
         "Id_Empleado": idEmpleado,
@@ -221,7 +221,7 @@ function eliminarEmpleado() {
     
 
     console.log(JSON.stringify(empleadoElimina))
-
+/*
     fetch(newUrl, {
         method: 'DELETE',
         body: JSON.stringify(empleadoElimina),
@@ -247,5 +247,51 @@ function eliminarEmpleado() {
     .catch(error => {
         console.log('ERROR', error);
     });
+*/
+}
 
+function agregarEmpleado() {
+
+        document.getElementById('nombreEmpleadoAdd').innerHTML = ''
+    
+        var nombreEmpleado = document.getElementById('nombreEmpleadoAdd').value
+        var apellidoEmpleado = document.getElementById('apellidoEmpleadoAdd').value
+        var direccionEmpleado = document.getElementById('direccionEmpleadoAdd').value
+        var puestoEmpleado = document.getElementById('puestoEmpleadoAdd').value
+        var edadEmpleado = document.getElementById('edadEmpleadoAdd').value
+        var telefonoEmpleado = document.getElementById('telefonoEmpleadoAdd').value
+        var salarioEmpleado = document.getElementById('salarioEmpleadoAdd').value
+    
+        empleadoFinal = {
+            "Nombre_Empleado": nombreEmpleado,
+            "Apellido_Empleado": apellidoEmpleado,
+            "Direccion_Empleado": direccionEmpleado,
+            "Puesto_Empleado": puestoEmpleado,
+            "Edad_Empleado": edadEmpleado,
+            "Telefono_Empleado": telefonoEmpleado,
+            "Salario_Empleado": salarioEmpleado,
+            "Solvencia_Salario": 1
+        }
+    
+        console.log(JSON.stringify(empleadoFinal))
+    
+        fetch(url, {
+            method: 'POST',
+            body: JSON.stringify(empleadoFinal),
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        })
+        .then(res => res.json())
+        .then(data => {
+    
+            alert(data)
+            getEmpleados()
+
+            window.location.reload()
+    
+        })
+        .catch(error => {
+            console.error('Error:', error)
+        })
 }
