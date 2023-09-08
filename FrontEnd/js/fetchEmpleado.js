@@ -44,7 +44,7 @@ function getEmpleados() {
                     <td>
                     <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#verEmpleado" onclick="verEmpleado(${data[i].Id_Empleado})">Ver</button>
                     <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#modEmpleado" onclick="verEmpleadomod(${data[i].Id_Empleado})">Editar</button>
-                    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#elimEmpleado" data-idempleado="${data[i].Id_Empleado}">Eliminar</button>
+                    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#elimEmpleado" onclick="verEmpleadoelim(${data[i].Id_Empleado})">Eliminar</button>
                     </td>
                 </tr>`
 
@@ -203,25 +203,52 @@ function modificarEmpleado(){
 
 }
 
+function verEmpleadoelim(id) {
+
+    var newUrl = url + '/' + id
+
+    fetch(newUrl)
+    .then(res => {
+        if(!res.ok){
+            throw new Error(res.statusText)
+        }
+        return res.json()
+    })
+    .then(data => {
+        //console.log(data)
+
+        empleado.Id_Empleado = data.Id_Empleado
+        empleado.Nombre_Empleado = data.Nombre_Empleado
+        empleado.Apellido_Empleado = data.Apellido_Empleado
+        empleado.Direccion_Empleado = data.Direccion_Empleado
+        empleado.Puesto_Empleado = data.Puesto_Empleado
+        empleado.edad_Empleado = data.Edad_Empleado
+        empleado.Telefono_Empleado = data.Telefono_Empleado
+        empleado.Salario_Empleado = data.Salario_Empleado
+        empleado.Solvencia_Salario = data.Solvencia_Salario
+
+        
+    })
+    .catch(err => {
+        console.log(err)
+    })
+
+}
+
+var empleadoElimina = {}
+
 function eliminarEmpleado() {
 
-    // Obtén el botón por su clase o selector
-    const botonEliminar = document.querySelector('.btn-danger');
-
-    // Accede al valor de data-idempleado utilizando el método getAttribute
-    const idEmpleado = botonEliminar.getAttribute('data-idempleado');
-
-    var newUrl = url + '/' + idEmpleado
-    console.log(empleado)
+    var newUrl = url + '/' + empleado.Id_Empleado
+    //console.log(newUrl)
 
     empleadoElimina = {
-        "Id_Empleado": idEmpleado,
+        "Id_Empleado": empleado.Id_Empleado,
         "Solvencia_Salario": 0
     }
     
-
     console.log(JSON.stringify(empleadoElimina))
-/*
+
     fetch(newUrl, {
         method: 'DELETE',
         body: JSON.stringify(empleadoElimina),
@@ -247,7 +274,7 @@ function eliminarEmpleado() {
     .catch(error => {
         console.log('ERROR', error);
     });
-*/
+
 }
 
 function agregarEmpleado() {
@@ -286,6 +313,7 @@ function agregarEmpleado() {
         .then(data => {
     
             alert(data)
+
             getEmpleados()
 
             window.location.reload()
