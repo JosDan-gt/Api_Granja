@@ -10,7 +10,7 @@ namespace WebApi_Granja.Models
 
         public int DiaControl_Numero { get; set; }
         public int Huevos_PorDia { get; set; }
-        public int CantidadCartones_Pequeño { get; set; }
+        public int CantidadCartones_Pequeno { get; set; }
         public int CantidadCartones_Mediano { get; set; }
         public int CantidadCartones_Grande { get; set; }
         public int CantidadCartones_Jumbo { get; set; }

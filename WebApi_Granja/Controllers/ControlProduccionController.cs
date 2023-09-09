@@ -48,9 +48,9 @@ namespace WebApi_Granja.Controllers
             }
         }
 
-        public ControlProduccion Get(int id)
+        public List<ControlProduccion> GET()
         {
-            return ConexionControlProduccionSQL.obtenerProd(id);
+            return ConexionControlProduccionSQL.listar2();
         }
     }
 }

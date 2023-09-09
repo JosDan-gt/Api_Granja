@@ -36,7 +36,7 @@
             aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="Buscar Empleado"
+        <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="Buscar produccion"
             aria-label="Search">
         <div class="navbar-nav">
             <div class="nav-item text-nowrap">
@@ -80,10 +80,11 @@
             <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
                 <div
                     class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                    <h1 class="h2">Empleados</h1>
+                    <h1 class="h2">Produccion</h1>
                     <div class="btn-toolbar mb-2 mb-md-0">
                         <div class="btn-group me-2">
-                            <button type="button" data-bs-toggle="modal" data-bs-target="#agregarEmpleado" class="btn btn-sm btn-outline-secondary">Agregar Empleado</button>
+                            <button type="button" data-bs-toggle="modal" data-bs-target="#agregarproduccion"
+                                class="btn btn-sm btn-outline-secondary">Agregar Produccion</button>
                         </div>
                     </div>
                 </div>
@@ -93,58 +94,67 @@
                         <thead>
                             <tr>
                                 <th scope="col">#</th>
-                                <th scope="col">Nombre</th>
-                                <th scope="col">Apellido</th>
-                                <th scope="col">Direccion</th>
-                                <th scope="col">Puesto</th>
-                                <th scope="col">Acciones</th>
+                                <th scope="col">Huevos Diarios</th>
+                                <th scope="col">Carton Pequeño</th>
+                                <th scope="col">Carton Mediano</th>
+                                <th scope="col">Carton Grande</th>
+                                <th scope="col">Carton Jumbo</th>
+                                <th scope="col">Cantidad de Aves</th>
+                                <th scope="col">Cantidad en Cajas</th>
+                                <th scope="col">Perdida</th>
+                                <th scope="col">Fecha</th>
                             </tr>
                         </thead>
-                        <tbody id="empleado">
+                        <tbody id="produccion">
                             <tr>
                                 <td>{id}</td>
-                                <td>{Nombre}</td>
-                                <td>{Apellido}</td>
-                                <td>{Direccion}</td>
-                                <td>{Puesto}</td>
+                                <td>{HuevD}</td>
+                                <td>{CartP}</td>
+                                <td>{CartM}</td>
+                                <td>{CartG}</td>
+                                <td>{CartJ}</td>
+                                <td>{CantAve}</td>
+                                <td>{CantCajas}</td>
+                                <td>{Perdida}</td>
+                                <td>{Fecha}</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
 
                 <!-- Modal -->
-                <div class="modal fade" id="verEmpleado" data-bs-backdrop="static" data-bs-keyboard="false"
+                <div class="modal fade" id="verproduccion" data-bs-backdrop="static" data-bs-keyboard="false"
                     tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h1 class="modal-title fs-5" id="verEmpleadoLabel">Ver Empleado</h1>
+                                <h1 class="modal-title fs-5" id="verproduccionLabel">Ver Produccion</h1>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal"
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                                 <form>
                                     <div class="mb-3">
-                                        <label for="nombreEmpleado" class="form-label">Nombre</label>
-                                        <input id="nombreEmpleado" type="email" class="form-control">
+                                        <label for="nombreProduccion" class="form-label">Nombre</label>
+                                        <input id="nombreProduccion" type="email" class="form-control">
 
-                                        <label for="apellidoEmpleado" class="form-label">Apellido</label>
-                                        <input id="apellidoEmpleado" type="email" class="form-control">
+                                        <label for="apellidoProduccion" class="form-label">Apellido</label>
+                                        <input id="apellidoProduccion" type="email" class="form-control">
 
-                                        <label for="direccionEmpleado" class="form-label">Direccion</label>
-                                        <input id="direccionEmpleado" type="email" class="form-control">
+                                        <label for="direccionProduccion" class="form-label">Direccion</label>
+                                        <input id="direccionProduccion" type="email" class="form-control">
 
-                                        <label for="puestoEmpleado" class="form-label">Puesto</label>
-                                        <input id="puestoEmpleado" type="email" class="form-control">
+                                        <label for="puestoProduccion" class="form-label">Puesto</label>
+                                        <input id="puestoProduccion" type="email" class="form-control">
 
-                                        <label for="edadEmpleado" class="form-label">Edad</label>
-                                        <input id="edadEmpleado" type="email" class="form-control">
+                                        <label for="edadProduccion" class="form-label">Edad</label>
+                                        <input id="edadProduccion" type="email" class="form-control">
 
-                                        <label for="telefonoEmpleado" class="form-label">Telefono</label>
-                                        <input id="telefonoEmpleado" type="email" class="form-control">
+                                        <label for="telefonoProduccion" class="form-label">Telefono</label>
+                                        <input id="telefonoProduccion" type="email" class="form-control">
 
-                                        <label for="salarioEmpleado" class="form-label">Salario</label>
-                                        <input id="salarioEmpleado" type="email" class="form-control">
+                                        <label for="salarioProduccion" class="form-label">Salario</label>
+                                        <input id="salarioProduccion" type="email" class="form-control">
 
                                     </div>
                                 </form>
@@ -157,41 +167,41 @@
                 </div>
 
                 <!-- Modal -->
-                <div class="modal fade" id="modEmpleado" data-bs-backdrop="static" data-bs-keyboard="false"
+                <div class="modal fade" id="modProduccion" data-bs-backdrop="static" data-bs-keyboard="false"
                     tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h1 class="modal-title fs-5" id="modEmpleadoLabel">Actualizar Empleado</h1>
+                                <h1 class="modal-title fs-5" id="modProduccionLabel">Actualizar Produccion</h1>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal"
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                                 <form>
                                     <div class="mb-3">
-                                        <label for="nombreEmpleadoMod" class="form-label">Nombre</label>
-                                        <input id="nombreEmpleadoMod" class="form-control">
+                                        <label for="nombreProduccionMod" class="form-label">Nombre</label>
+                                        <input id="nombreProduccionMod" class="form-control">
 
-                                        <label for="apellidoEmpleadoMod" class="form-label">Apellido</label>
-                                        <input id="apellidoEmpleadoMod" class="form-control">
+                                        <label for="apellidoProduccionMod" class="form-label">Apellido</label>
+                                        <input id="apellidoProduccionMod" class="form-control">
 
-                                        <label for="direccionEmpleadoMod" class="form-label">Direccion</label>
-                                        <input id="direccionEmpleadoMod" class="form-control">
+                                        <label for="direccionProduccionMod" class="form-label">Direccion</label>
+                                        <input id="direccionProduccionMod" class="form-control">
 
-                                        <label for="puestoEmpleadoMod" class="form-label">Puesto</label>
-                                        <input id="puestoEmpleadoMod" class="form-control">
+                                        <label for="puestoProduccionMod" class="form-label">Puesto</label>
+                                        <input id="puestoProduccionMod" class="form-control">
 
-                                        <label for="edadEmpleadoMod" class="form-label">Edad</label>
-                                        <input id="edadEmpleadoMod" class="form-control">
+                                        <label for="edadProduccionMod" class="form-label">Edad</label>
+                                        <input id="edadProduccionMod" class="form-control">
 
-                                        <label for="telefonoEmpleadoMod" class="form-label">Telefono</label>
-                                        <input id="telefonoEmpleadoMod" class="form-control">
+                                        <label for="telefonoProduccionMod" class="form-label">Telefono</label>
+                                        <input id="telefonoProduccionMod" class="form-control">
 
-                                        <label for="salarioEmpleadoMod" class="form-label">Salario</label>
-                                        <input id="salarioEmpleadoMod" class="form-control">
+                                        <label for="salarioProduccionMod" class="form-label">Salario</label>
+                                        <input id="salarioProduccionMod" class="form-control">
 
                                     </div>
-                                    <button onclick="modificarEmpleado()" data-bs-dismiss="modal" type="button"
+                                    <button onclick="modificarProduccion()" data-bs-dismiss="modal" type="button"
                                         class="btn btn-primary">Guardar</button>
                                 </form>
                             </div>
@@ -203,21 +213,22 @@
                 </div>
 
                 <!-- Modal -->
-                <div class="modal fade" id="elimEmpleado" tabindex="-1" aria-labelledby="exampleModalLabel"
+                <div class="modal fade" id="elimProduccion" tabindex="-1" aria-labelledby="exampleModalLabel"
                     aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h1 class="modal-title fs-5" id="elimEmpleadoLabel">Eliminar Empleado</h1>
+                                <h1 class="modal-title fs-5" id="elimProduccionLabel">Eliminar Produccion</h1>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal"
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                <h3 >¿Estas seguro de eliminar este empleado?</h3>
+                                <h3>¿Estas seguro de eliminar este Produccion?</h3>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-                                <button type="button" data-bs-dismiss="modal" onclick="eliminarEmpleado()" class="btn btn-primary">Eliminar</button>
+                                <button type="button" data-bs-dismiss="modal" onclick="eliminarProduccion()"
+                                    class="btn btn-primary">Eliminar</button>
                             </div>
                         </div>
                     </div>
@@ -225,40 +236,40 @@
 
 
                 <!-- Modal -->
-                <div class="modal fade" id="agregarEmpleado" data-bs-backdrop="static" data-bs-keyboard="false"
+                <div class="modal fade" id="agregarProduccion" data-bs-backdrop="static" data-bs-keyboard="false"
                     tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h1 class="modal-title fs-5" id="agregarEmpleadoLabel">Agregar Empleado</h1>
+                                <h1 class="modal-title fs-5" id="agregarProduccionLabel">Agregar Prodcuccion</h1>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal"
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                                 <form>
                                     <div class="mb-3">
-                                        <label for="nombreEmpleadoAdd" class="form-label">Nombre</label>
-                                        <input id="nombreEmpleadoAdd" type="text" class="form-control">
+                                        <label for="nombreProduccionAdd" class="form-label">Nombre</label>
+                                        <input id="nombreProduccionAdd" type="text" class="form-control">
 
-                                        <label for="apellidoEmpleadoAdd" class="form-label">Apellido</label>
-                                        <input id="apellidoEmpleadoAdd" type="text" class="form-control">
+                                        <label for="apellidoProduccionAdd" class="form-label">Apellido</label>
+                                        <input id="apellidoProduccionAdd" type="text" class="form-control">
 
-                                        <label for="direccionEmpleadoAdd" class="form-label">Direccion</label>
-                                        <input id="direccionEmpleadoAdd" type="text" class="form-control">
+                                        <label for="direccionProduccionAdd" class="form-label">Direccion</label>
+                                        <input id="direccionProduccionAdd" type="text" class="form-control">
 
-                                        <label for="puestoEmpleadoAdd" class="form-label">Puesto</label>
-                                        <input id="puestoEmpleadoAdd" type="text" class="form-control">
+                                        <label for="puestoProduccionAdd" class="form-label">Puesto</label>
+                                        <input id="puestoProduccionAdd" type="text" class="form-control">
 
-                                        <label for="edadEmpleadoAdd" class="form-label">Edad</label>
-                                        <input id="edadEmpleadoAdd" type="number" class="form-control">
+                                        <label for="edadProduccionAdd" class="form-label">Edad</label>
+                                        <input id="edadProduccionAdd" type="number" class="form-control">
 
-                                        <label for="telefonoEmpleadoAdd" class="form-label">Telefono</label>
-                                        <input id="telefonoEmpleadoAdd" type="number" class="form-control">
+                                        <label for="telefonoProduccionAdd" class="form-label">Telefono</label>
+                                        <input id="telefonoProduccionAdd" type="number" class="form-control">
 
-                                        <label for="salarioEmpleadoAdd" class="form-label">Salario</label>
-                                        <input id="salarioEmpleadoAdd" type="number" class="form-control">
+                                        <label for="salarioProduccionAdd" class="form-label">Salario</label>
+                                        <input id="salarioProduccionAdd" type="number" class="form-control">
                                     </div>
-                                    <button onclick="agregarEmpleado()" data-bs-dismiss="modal" type="button"
+                                    <button onclick="agregarProduccion()" data-bs-dismiss="modal" type="button"
                                         class="btn btn-primary">Guardar</button>
                                 </form>
                             </div>
@@ -280,7 +291,7 @@
                 crossorigin="anonymous"></script>
             <script src="../js/dashboard.js"></script>
 
-            <script src="../js/fetchEmpleado.js"></script>
+            <script src="../js/fetchProduccion.js"></script>
 
 </body>
 
