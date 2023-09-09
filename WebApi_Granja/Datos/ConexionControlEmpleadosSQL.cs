@@ -13,8 +13,8 @@ namespace WebApi_Granja.Datos
 
         public bool InserEmp(ControlEmpleados controlEmpleados)
         {
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
-            //string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {
@@ -53,8 +53,8 @@ namespace WebApi_Granja.Datos
 
         public bool UpdateEmp(ControlEmpleados controlEmpleados)
         {
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
-            //string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {
@@ -94,8 +94,8 @@ namespace WebApi_Granja.Datos
 
         public bool DeleteEmp(ControlEmpleados controlEmpleados)
         {
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
-            //string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {
@@ -130,8 +130,8 @@ namespace WebApi_Granja.Datos
         {
             ControlEmpleados ocontrol = new ControlEmpleados();
 
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
-            //string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {
@@ -177,8 +177,8 @@ namespace WebApi_Granja.Datos
         {
             List<ControlEmpleados> oListaRegistro = new List<ControlEmpleados>();
 
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
-            //string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {

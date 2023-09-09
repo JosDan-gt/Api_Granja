@@ -13,7 +13,9 @@ namespace WebApi_Granja.Datos
 
         public bool InserPro(ControlProduccion controlProduccion)
         {
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
+
 
             try
             {
@@ -53,7 +55,8 @@ namespace WebApi_Granja.Datos
 
         public bool UpdatePro(ControlProduccion controlProduccion)
         {
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {
@@ -98,13 +101,14 @@ namespace WebApi_Granja.Datos
         {
             List<ControlProduccion> ocontrolPro = new List<ControlProduccion>();
 
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {
                 using (SqlConnection con = new SqlConnection(conString))
                 {
-                    string comando = "select * from controlProduccion";
+                    string comando = "SELECT DiaControl_Numero, Huevos_PorDia, CantidadCartones_Pequeno, CantidadCartones_Mediano, CantidadCartones_Grande, CantidadCartones_Jumbo,\r\n\t\tCantidad_Gallinas, Cantidad_Cajas, Cantidad_Perdida, CONVERT(VARCHAR(10), Fecha_Control, 103) Fecha_Control\r\nFROM GRANJA.DBO.ControlProduccion";
                     using (SqlCommand cmd = new SqlCommand(comando, con))
                     {
                         cmd.CommandType = CommandType.Text;
@@ -146,7 +150,8 @@ namespace WebApi_Granja.Datos
         {
             ControlProduccion ocontrolPro = new ControlProduccion();
 
-            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            //string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+            string conString = "Data Source=DESKTOP-HGGBRC3; Initial Catalog=GRANJA; User Id = sa; Password = Tebalan02";
 
             try
             {
