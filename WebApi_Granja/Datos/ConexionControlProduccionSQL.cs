@@ -11,7 +11,7 @@ namespace WebApi_Granja.Datos
     public class ConexionControlProduccionSQL
     {
 
-        public bool InserPro(ControlProduccion controlProduccion )
+        public bool InserPro(ControlProduccion controlProduccion)
         {
             string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
 
@@ -92,6 +92,8 @@ namespace WebApi_Granja.Datos
             }
         }
 
+
+
         public static List<ControlProduccion> listar2()
         {
             List<ControlProduccion> ocontrolPro = new List<ControlProduccion>();
@@ -106,7 +108,7 @@ namespace WebApi_Granja.Datos
                     using (SqlCommand cmd = new SqlCommand(comando, con))
                     {
                         cmd.CommandType = CommandType.Text;
-                     
+
                         con.Open();
 
                         using (SqlDataReader dr = cmd.ExecuteReader())
@@ -126,6 +128,54 @@ namespace WebApi_Granja.Datos
                                     Cantidad_Perdida = Convert.ToInt32(dr["Cantidad_Perdida"]),
                                     Fecha_Control = dr["Fecha_Control"].ToString(),
                                 });
+                            }
+                        }
+                    }
+                }
+                return ocontrolPro;
+            }
+            catch (Exception ex)
+            {
+
+                return ocontrolPro;
+            }
+        }
+
+
+        public static ControlProduccion obtenerProd(int DiaControl_Numero)
+        {
+            ControlProduccion ocontrolPro = new ControlProduccion();
+
+            string conString = "Data Source=LAPTOP-ECOQDBI2; Initial Catalog=GranjaLosAres; Integrated Security=True;";
+
+            try
+            {
+                using (SqlConnection con = new SqlConnection(conString))
+                {
+                    string comando = "select * from controlProduccion where DiaControl_Numero = @DiaControl_Numero";
+                    using (SqlCommand cmd = new SqlCommand(comando, con))
+                    {
+                        cmd.CommandType = CommandType.Text;
+                        cmd.Parameters.AddWithValue("@DiaControl_Numero", DiaControl_Numero);
+                        con.Open();
+
+                        using (SqlDataReader dr = cmd.ExecuteReader())
+                        {
+                            while (dr.Read())
+                            {
+                                ocontrolPro = new ControlProduccion()
+                                {
+                                    DiaControl_Numero = Convert.ToInt32(dr["DiaControl_Numero"]),
+                                    Fecha_Control = dr["Fecha_Control"].ToString(),
+                                    Cantidad_Cajas = Convert.ToInt32(dr["Cantidad_Cajas"]),
+                                    Huevos_PorDia = Convert.ToInt32(dr["Huevos_PorDia"]),
+                                    Cantidad_Perdida = Convert.ToInt32(dr["Cantidad_Perdida"]),
+                                    Cantidad_Gallinas = Convert.ToInt32(dr["Cantidad_Gallinas"]),
+                                    CantidadCartones_Pequeno = Convert.ToInt32(dr["CantidadCartones_Pequeno"]),
+                                    CantidadCartones_Mediano = Convert.ToInt32(dr["CantidadCartones_Mediano"]),
+                                    CantidadCartones_Grande = Convert.ToInt32(dr["CantidadCartones_Grande"]),
+                                    CantidadCartones_Jumbo = Convert.ToInt32(dr["CantidadCartones_Jumbo"]),
+                                };
                             }
                         }
                     }

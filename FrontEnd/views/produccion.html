@@ -99,23 +99,19 @@
                                 <th scope="col">Carton Mediano</th>
                                 <th scope="col">Carton Grande</th>
                                 <th scope="col">Carton Jumbo</th>
-                                <th scope="col">Cantidad de Aves</th>
                                 <th scope="col">Cantidad en Cajas</th>
-                                <th scope="col">Perdida</th>
                                 <th scope="col">Fecha</th>
                             </tr>
                         </thead>
                         <tbody id="produccion">
                             <tr>
-                                <td>{id}</td>
+                                <td>{id2}</td>
                                 <td>{HuevD}</td>
                                 <td>{CartP}</td>
                                 <td>{CartM}</td>
                                 <td>{CartG}</td>
                                 <td>{CartJ}</td>
-                                <td>{CantAve}</td>
                                 <td>{CantCajas}</td>
-                                <td>{Perdida}</td>
                                 <td>{Fecha}</td>
                             </tr>
                         </tbody>
@@ -135,26 +131,32 @@
                             <div class="modal-body">
                                 <form>
                                     <div class="mb-3">
-                                        <label for="nombreProduccion" class="form-label">Nombre</label>
-                                        <input id="nombreProduccion" type="email" class="form-control">
+                                        <label for="huevosDia" class="form-label">Huevos Diarios</label>
+                                        <input id="huevosDia" class="form-control">
 
-                                        <label for="apellidoProduccion" class="form-label">Apellido</label>
-                                        <input id="apellidoProduccion" type="email" class="form-control">
+                                        <label for="cantPeque" class="form-label">Carton Pequeño</label>
+                                        <input id="cantPeque" class="form-control">
 
-                                        <label for="direccionProduccion" class="form-label">Direccion</label>
-                                        <input id="direccionProduccion" type="email" class="form-control">
+                                        <label for="cantMed" class="form-label">Carton Mediano</label>
+                                        <input id="cantMed" class="form-control">
 
-                                        <label for="puestoProduccion" class="form-label">Puesto</label>
-                                        <input id="puestoProduccion" type="email" class="form-control">
+                                        <label for="cantGrand" class="form-label">Carton Grande</label>
+                                        <input id="cantGrand" class="form-control">
 
-                                        <label for="edadProduccion" class="form-label">Edad</label>
-                                        <input id="edadProduccion" type="email" class="form-control">
+                                        <label for="cantJumb" class="form-label">Carton Jumbo</label>
+                                        <input id="cantJumb" class="form-control">
 
-                                        <label for="telefonoProduccion" class="form-label">Telefono</label>
-                                        <input id="telefonoProduccion" type="email" class="form-control">
+                                        <label for="cantGall" class="form-label">Cantidad de Gallinas</label>
+                                        <input id="cantGall" class="form-control">
 
-                                        <label for="salarioProduccion" class="form-label">Salario</label>
-                                        <input id="salarioProduccion" type="email" class="form-control">
+                                        <label for="cantCajas" class="form-label">Cantidad en Cajas</label>
+                                        <input id="cantCajas" class="form-control">
+
+                                        <label for="cantPerd" class="form-label">Perdida</label>
+                                        <input id="cantPerd" class="form-control">
+
+                                        <label for="fecha2" class="form-label">Fecha</label>
+                                        <input id="fecha2" class="form-control">
 
                                     </div>
                                 </form>
@@ -179,26 +181,32 @@
                             <div class="modal-body">
                                 <form>
                                     <div class="mb-3">
-                                        <label for="nombreProduccionMod" class="form-label">Nombre</label>
-                                        <input id="nombreProduccionMod" class="form-control">
+                                        <label for="huevosDiaMod" class="form-label">Huevos Diarios</label>
+                                        <input id="huevosDiaMod" class="form-control">
 
-                                        <label for="apellidoProduccionMod" class="form-label">Apellido</label>
-                                        <input id="apellidoProduccionMod" class="form-control">
+                                        <label for="cantPequeMod" class="form-label">Carton Pequeño</label>
+                                        <input id="cantPequeMod" class="form-control">
 
-                                        <label for="direccionProduccionMod" class="form-label">Direccion</label>
-                                        <input id="direccionProduccionMod" class="form-control">
+                                        <label for="cantMedMod" class="form-label">Carton Mediano</label>
+                                        <input id="cantMedMod" class="form-control">
 
-                                        <label for="puestoProduccionMod" class="form-label">Puesto</label>
-                                        <input id="puestoProduccionMod" class="form-control">
+                                        <label for="cantGrandMod" class="form-label">Carton Grande</label>
+                                        <input id="cantGrandMod" class="form-control">
 
-                                        <label for="edadProduccionMod" class="form-label">Edad</label>
-                                        <input id="edadProduccionMod" class="form-control">
+                                        <label for="cantJumbMod" class="form-label">Carton Jumbo</label>
+                                        <input id="cantJumbMod" class="form-control">
 
-                                        <label for="telefonoProduccionMod" class="form-label">Telefono</label>
-                                        <input id="telefonoProduccionMod" class="form-control">
+                                        <label for="cantGallMod" class="form-label">Cantidad de Gallinas</label>
+                                        <input id="cantGallMod" class="form-control">
 
-                                        <label for="salarioProduccionMod" class="form-label">Salario</label>
-                                        <input id="salarioProduccionMod" class="form-control">
+                                        <label for="cantCajasMod" class="form-label">Cantidad en Cajas</label>
+                                        <input id="cantCajasMod" class="form-control">
+
+                                        <label for="cantPerdMod" class="form-label">Perdida</label>
+                                        <input id="cantPerdMod" class="form-control">
+
+                                        <label for="fechaMod" class="form-label">Fecha</label>
+                                        <input id="fechaMod" class="form-control">
 
                                     </div>
                                     <button onclick="modificarProduccion()" data-bs-dismiss="modal" type="button"
@@ -212,7 +220,7 @@
                     </div>
                 </div>
 
-                <!-- Modal -->
+                <!-- Modal
                 <div class="modal fade" id="elimProduccion" tabindex="-1" aria-labelledby="exampleModalLabel"
                     aria-hidden="true">
                     <div class="modal-dialog">
@@ -232,7 +240,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
                 <!-- Modal -->

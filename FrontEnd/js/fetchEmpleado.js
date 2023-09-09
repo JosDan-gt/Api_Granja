@@ -1,5 +1,4 @@
 
-
 var url = 'http://localhost:56138/api/ControlEmpleados'
 
 var empleado = {
@@ -45,7 +44,7 @@ function getEmpleados() {
                     <td>
                     <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#verEmpleado" onclick="verEmpleado(${data[i].Id_Empleado})">Ver</button>
                     <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#modEmpleado" onclick="verEmpleadomod(${data[i].Id_Empleado})">Editar</button>
-                    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#elimEmpleado" onclick="verEmpleadoelim(${data[i].Id_Empleado})">Eliminar</button>
+                    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#elimEmpleado" data-idempleado="${data[i].Id_Empleado}">Eliminar</button>
                     </td>
                 </tr>`
 
@@ -204,50 +203,23 @@ function modificarEmpleado(){
 
 }
 
-function verEmpleadoelim(id) {
-
-    var newUrl = url + '/' + id
-
-    fetch(newUrl)
-    .then(res => {
-        if(!res.ok){
-            throw new Error(res.statusText)
-        }
-        return res.json()
-    })
-    .then(data => {
-        //console.log(data)
-
-        empleado.Id_Empleado = data.Id_Empleado
-        empleado.Nombre_Empleado = data.Nombre_Empleado
-        empleado.Apellido_Empleado = data.Apellido_Empleado
-        empleado.Direccion_Empleado = data.Direccion_Empleado
-        empleado.Puesto_Empleado = data.Puesto_Empleado
-        empleado.edad_Empleado = data.Edad_Empleado
-        empleado.Telefono_Empleado = data.Telefono_Empleado
-        empleado.Salario_Empleado = data.Salario_Empleado
-        empleado.Solvencia_Salario = data.Solvencia_Salario
-
-        
-    })
-    .catch(err => {
-        console.log(err)
-    })
-
-}
-
-var empleadoElimina = {}
-
 function eliminarEmpleado() {
 
-    var newUrl = url + '/' + empleado.Id_Empleado
-    //console.log(newUrl)
+    // Obtén el botón por su clase o selector
+    const botonEliminar = document.querySelector('.btn-danger');
+
+    // Accede al valor de data-idempleado utilizando el método getAttribute
+    const idEmpleado = botonEliminar.getAttribute('data-idempleado');
+
+    var newUrl = url + '/' + idEmpleado
+    console.log(newUrl)
 
     empleadoElimina = {
-        "Id_Empleado": empleado.Id_Empleado,
+        "Id_Empleado": idEmpleado,
         "Solvencia_Salario": 0
     }
     
+
     console.log(JSON.stringify(empleadoElimina))
 
     fetch(newUrl, {
@@ -276,51 +248,4 @@ function eliminarEmpleado() {
         console.log('ERROR', error);
     });
 
-}
-
-function agregarEmpleado() {
-
-        document.getElementById('nombreEmpleadoAdd').innerHTML = ''
-    
-        var nombreEmpleado = document.getElementById('nombreEmpleadoAdd').value
-        var apellidoEmpleado = document.getElementById('apellidoEmpleadoAdd').value
-        var direccionEmpleado = document.getElementById('direccionEmpleadoAdd').value
-        var puestoEmpleado = document.getElementById('puestoEmpleadoAdd').value
-        var edadEmpleado = document.getElementById('edadEmpleadoAdd').value
-        var telefonoEmpleado = document.getElementById('telefonoEmpleadoAdd').value
-        var salarioEmpleado = document.getElementById('salarioEmpleadoAdd').value
-    
-        empleadoFinal = {
-            "Nombre_Empleado": nombreEmpleado,
-            "Apellido_Empleado": apellidoEmpleado,
-            "Direccion_Empleado": direccionEmpleado,
-            "Puesto_Empleado": puestoEmpleado,
-            "Edad_Empleado": edadEmpleado,
-            "Telefono_Empleado": telefonoEmpleado,
-            "Salario_Empleado": salarioEmpleado,
-            "Solvencia_Salario": 1
-        }
-    
-        console.log(JSON.stringify(empleadoFinal))
-    
-        fetch(url, {
-            method: 'POST',
-            body: JSON.stringify(empleadoFinal),
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        })
-        .then(res => res.json())
-        .then(data => {
-    
-            alert(data)
-
-            getEmpleados()
-
-            window.location.reload()
-    
-        })
-        .catch(error => {
-            console.error('Error:', error)
-        })
 }
