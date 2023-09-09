@@ -223,5 +223,48 @@ function modificarProduccion() {
         })
 
 }
+var produccionFinal = {}
+function agregarProduccion(){
+    
+        var huevosDia = document.getElementById('huevosDiaAg').value
+        var cantPeque = document.getElementById('cantPequeAg').value
+        var cantMed = document.getElementById('cantMedAg').value
+        var cantGrand = document.getElementById('cantGrandAg').value
+        var cantJumb = document.getElementById('cantJumbAg').value
+        var cantGall = document.getElementById('cantGallAg').value
+        var cantCajas = document.getElementById('cantCajasAg').value
+        var cantPerd = document.getElementById('cantPerdAg').value
+        var fecha = document.getElementById('fechaAg').value
+    
+        produccionFinal = {
+            "Huevos_PorDia": huevosDia,
+            "CantidadCartones_Pequeno": cantPeque,
+            "CantidadCartones_Mediano": cantMed,
+            "CantidadCartones_Grande": cantGrand,
+            "CantidadCartones_Jumbo": cantJumb,
+            "Cantidad_Gallinas": cantGall,
+            "Cantidad_Cajas": cantCajas,
+            "Cantidad_Perdida": cantPerd,
+            "Fecha_Control": fecha
+        }
+    
+        fetch(url2, {
+            method: 'POST',
+            body: JSON.stringify(produccionFinal),
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        })
+            .then(res => res.json())
+            .then(data2 => {
+    
+                alert(data2)
+                getProduccion()
+    
+            })
+            .catch(error => {
+                console.error('Error:', error)
+            })
+}
 
 
